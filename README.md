@@ -97,26 +97,6 @@
 
 <br>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kanak-verma-developer/kanak-verma-developer/output/github-contribution-grid-snake.svg" width="100%"/>
-
-</div>
-
-<br>
-
-## 🏅 Trophy Room
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kanak-verma-developer&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" width="100%"/>
-
-</div>
-
-<br>
-
 ## 🚀 Featured Projects
 
 <table>
