@@ -180,22 +180,6 @@ Mock interview simulator with AI-powered feedback
 
 ---
 
-### 🔐 **SecureShare — Data Leakage Prevention System**
-Enterprise-grade secure document sharing platform *(In Development)*
-
-**Tech Stack:** React.js | Node.js | MongoDB
-
-**⭐ Key Features:**
-- 🔒 End-to-end encryption
-- 👤 Role-based access control (RBAC)
-- ⏰ Expiring links & automatic purge
-- 📋 Comprehensive audit trails
-- 📊 Access analytics dashboard
-
-**[📂 View Repository](https://github.com/kanak-verma-developer/secureshare)**
-
----
-
 ## 🌱 Currently Learning
 
 <div align="center">
