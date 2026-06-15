@@ -4,9 +4,8 @@
 
 **Full Stack Developer | AI/ML Enthusiast | Final Year Data Science Student**
 
-![Profile Views](https://komarev.com/ghpvc/?username=kanak-verma-developer&color=blue&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/kanak-verma-developer?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/kanak-verma-developer?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=kanak-verma-developer&color=0891b2&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/kanak-verma-developer?style=social&label=Followers&color=0891b2)
 
 </div>
 
@@ -20,7 +19,9 @@ Currently seeking opportunities to contribute to fast-moving **AI/Web startups**
 
 <div align="center">
 
-**🌍 Location:** Moradabad, Uttar Pradesh, India | **📧 Email:** kanak0205mbd@gmail.com | **📱 Phone:** 7983639253
+**🌍 Moradabad, Uttar Pradesh** | **📧 kanak0205mbd@gmail.com** | **📱 7983639253**
+
+[LinkedIn](https://www.linkedin.com/in/kanak-verma-b50730368) • [GitHub](https://github.com/kanak-verma-developer) • [Email](mailto:kanak0205mbd@gmail.com)
 
 </div>
 
@@ -30,21 +31,19 @@ Currently seeking opportunities to contribute to fast-moving **AI/Web startups**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanak-verma-developer&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanak-verma-developer&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&text_color=30b0c0&title_color=30b0c0)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanak-verma-developer&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kanak-verma-developer&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanak-verma-developer&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&text_color=30b0c0&title_color=30b0c0)
 
 </div>
 
 ---
 
-## 🏆 Achievements & Trophies
+## 🔥 Contribution Metrics
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=kanak-verma-developer&theme=tokyonight&no-frame=true&row=2&column=3)
+![GitHub Streak](https://streak-stats.demolab.com?user=kanak-verma-developer&theme=tokyonight&hide_border=true&background=0d1117)
 
 </div>
 
@@ -57,25 +56,26 @@ Currently seeking opportunities to contribute to fast-moving **AI/Web startups**
 | **B.Tech Data Science** | Moradabad Institute of Technology | 2023–2027 |
 | **Azure Internship Certificate** | Microsoft Elevate (AICTE) | 2025 |
 | **Web Development Fundamentals Badge** | IBM (AICTE) | 2025 |
-| **C++ Essentials** | Cisco | 2024 |
 
 ---
 
 ## 💼 Internship Experience
 
-### 🔵 Frontend Developer Intern | IBM (AICTE)
+### 🔵 **Frontend Developer Intern | IBM (AICTE)**
 **Aug – Oct 2025** | Remote  
-- Built responsive UIs with **React.js**, **Tailwind CSS**, and **JavaScript**
-- Integrated frontend with backend **REST APIs** in production workflows
-- Resolved cross-team bugs in **Agile environment**
-- Version-controlled all work via **Git/GitHub**
-- **Award:** IBM Web Development Fundamentals Badge ✅
 
-### ☁️ Cloud Intern | Microsoft Elevate (AICTE)
+- ✅ Built responsive UIs with **React.js**, **Tailwind CSS**, and **JavaScript**
+- ✅ Integrated frontend with backend **REST APIs** in production workflows
+- ✅ Resolved cross-team bugs in **Agile environment**
+- ✅ Version-controlled all work via **Git/GitHub**
+- 🏆 **Award:** IBM Web Development Fundamentals Badge
+
+### ☁️ **Cloud Intern | Microsoft Elevate (AICTE)**
 **2025** | Remote  
-- Deployed and managed **VMs, Storage, and resources** on **Microsoft Azure**
-- Gained hands-on experience in **cloud architecture** and resource lifecycle
-- **Award:** Microsoft Azure Internship Certificate ✅
+
+- ✅ Deployed and managed **VMs, Storage, and resources** on **Microsoft Azure**
+- ✅ Gained hands-on experience in **cloud architecture** and resource lifecycle
+- 🏆 **Award:** Microsoft Azure Internship Certificate
 
 ---
 
@@ -83,29 +83,29 @@ Currently seeking opportunities to contribute to fast-moving **AI/Web startups**
 
 <div align="center">
 
-### 🎨 **Frontend**
+### 🎨 **Frontend Technologies**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ **Backend**
+### ⚙️ **Backend Technologies**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 🤖 **AI/ML**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Python](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+### 🤖 **AI/ML Technologies**
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### ☁️ **Cloud & Database**
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🔧 **Dev Tools**
+### 🔧 **Developer Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -122,20 +122,20 @@ Real-time queue detection & management using computer vision
 
 **Tech Stack:** Python | YOLOv8 | OpenCV | Streamlit | SQLite3
 
-**Key Features:**
-- ✅ Real-time people detection from live camera feed
-- ✅ Priority token system + manual entry option
-- ✅ Interactive Streamlit dashboard with live queue stats
-- ✅ Historical analytics & trend visualization
-- ✅ Auto-generated PDF reports via FPDF
-- ✅ Role-based access control
-- ✅ CSV & PDF export functionality
+**⭐ Key Features:**
+- Real-time people detection from live camera feed
+- Priority token system + manual entry option
+- Interactive Streamlit dashboard with live queue stats
+- Historical analytics & trend visualization
+- Auto-generated PDF reports via FPDF
+- Role-based access control
+- CSV & PDF export functionality
 
 **📊 Stats:** 
 ![Stars](https://img.shields.io/github/stars/kanak-verma-developer/AI_Queue_Management?style=social)
 ![Forks](https://img.shields.io/github/forks/kanak-verma-developer/AI_Queue_Management?style=social)
 
-**Repository:** [View on GitHub](https://github.com/kanak-verma-developer/AI_Queue_Management)
+**[📂 View Repository](https://github.com/kanak-verma-developer/AI_Queue_Management)**
 
 ---
 
@@ -144,21 +144,21 @@ Modern SaaS dashboard for company management, hiring pipelines, and AI chat
 
 **Tech Stack:** HTML5 | CSS3 | JavaScript | Glassmorphism Design
 
-**🔗 Live Demo:** [https://kanak-verma-developer.github.io/nexbot-project/](https://kanak-verma-developer.github.io/nexbot-project/)
+**🔗 Live Demo:** [**nexbot-project**](https://kanak-verma-developer.github.io/nexbot-project/)
 
-**Key Features:**
-- 📊 **Company Directory** – Status tracking, multi-tenant support
-- 👥 **Hiring Pipeline** – Applicant tracking, interview scheduling
-- 🏢 **HR Management** – Employee database, department analytics, performance tracking
-- 🤖 **AI Chat System** – Session-based conversations, chat history, API key manager
-- 💎 **Design** – Glassmorphism theme, fully responsive (desktop/tablet/mobile)
-- ⚡ **Performance** – Zero-framework vanilla JavaScript, smooth animations
+**⭐ Key Features:**
+- 📊 Company Directory with status tracking
+- 👥 Hiring Pipeline with applicant tracking
+- 🏢 HR Management module with analytics
+- 🤖 AI Chat System with session management
+- 💎 Glassmorphism design (fully responsive)
+- ⚡ Vanilla JavaScript (zero frameworks)
 
 **📊 Stats:** 
 ![Stars](https://img.shields.io/github/stars/kanak-verma-developer/nexbot-project?style=social)
 ![Forks](https://img.shields.io/github/forks/kanak-verma-developer/nexbot-project?style=social)
 
-**Repository:** [View on GitHub](https://github.com/kanak-verma-developer/nexbot-project)
+**[📂 View Repository](https://github.com/kanak-verma-developer/nexbot-project)**
 
 ---
 
@@ -167,63 +167,62 @@ Mock interview simulator with AI-powered feedback
 
 **Tech Stack:** HTML5 | CSS3 | JavaScript
 
-**Key Features:**
-- 🎯 Simulates realistic interview scenarios
-- 📝 Interactive Q&A format
-- 📊 Performance analytics & personalized feedback
-- 🎬 Non-verbal cue evaluation
+**⭐ Key Features:**
+- Realistic interview scenario simulation
+- Interactive Q&A format
+- Performance analytics & personalized feedback
+- Non-verbal cue evaluation
 
 **📊 Stats:** 
 ![Stars](https://img.shields.io/github/stars/kanak-verma-developer/AI-vertual-interviewer?style=social)
 
-**Repository:** [View on GitHub](https://github.com/kanak-verma-developer/AI-vertual-interviewer)
+**[📂 View Repository](https://github.com/kanak-verma-developer/AI-vertual-interviewer)**
 
 ---
 
-### 🔐 **SecureShare — Data Leakage Prevention System** *(In Development)*
-Enterprise-grade secure document sharing platform
+### 🔐 **SecureShare — Data Leakage Prevention System**
+Enterprise-grade secure document sharing platform *(In Development)*
 
 **Tech Stack:** React.js | Node.js | MongoDB
 
-**Features:**
+**⭐ Key Features:**
 - 🔒 End-to-end encryption
 - 👤 Role-based access control (RBAC)
 - ⏰ Expiring links & automatic purge
 - 📋 Comprehensive audit trails
 - 📊 Access analytics dashboard
 
-**Repository:** [View on GitHub](https://github.com/kanak-verma-developer/secureshare)
+**[📂 View Repository](https://github.com/kanak-verma-developer/secureshare)**
 
 ---
 
-## 📈 Contribution Activity
+## 🌱 Currently Learning
 
 <div align="center">
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=kanak-verma-developer&theme=tokyonight&hide_border=true)
+| Focus Area | Topics |
+|---|---|
+| 🔍 **Frontend** | Advanced React patterns, Performance optimization, Web animations |
+| 🛡️ **Security** | Cybersecurity fundamentals, Secure coding practices |
+| 📈 **Backend** | Backend scalability, System design, Microservices |
+| 🚀 **DevOps** | Docker, Kubernetes, CI/CD pipelines |
+| 🤖 **AI/ML** | Advanced LLM integration, Prompt engineering |
 
 </div>
 
 ---
 
-## 🌱 Currently Learning & Exploring
-
-- 🔍 Advanced React patterns & performance optimization
-- 🛡️ Cybersecurity fundamentals & secure coding practices
-- 📈 Backend scalability & system design
-- 🚀 DevOps & containerization (Docker, Kubernetes)
-- 🤖 Advanced LLM integration & prompt engineering
-- 💡 Enterprise architecture patterns
-
----
-
 ## 🎯 Looking For
 
-- ✨ Positions in **AI/Web startups** with fast-paced environments
-- 💡 Full Stack or **Frontend-focused roles** with AI integration
-- 🚀 Opportunities to build products from **concept to production**
-- 🔧 Mentorship in **system design** and **scalable architecture**
-- 🌟 Collaborative teams passionate about innovation
+<div align="center">
+
+- ✨ **Positions** in AI/Web startups with fast-paced environments
+- 💡 **Full Stack** or Frontend-focused roles with AI integration  
+- 🚀 **Build products** from concept to production
+- 🔧 **Mentorship** in system design and scalable architecture
+- 🌟 **Collaborative teams** passionate about innovation
+
+</div>
 
 ---
 
@@ -234,7 +233,6 @@ Enterprise-grade secure document sharing platform
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanak-verma-b50730368)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanak-verma-developer)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanak0205mbd@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kanak-verma-developer.github.io/nexbot-project/)
 
 </div>
 
@@ -244,49 +242,37 @@ Enterprise-grade secure document sharing platform
 
 <div align="center">
 
-| Metric | Count |
-|--------|-------|
-| 📚 Public Repositories | 6+ |
-| 🔗 GitHub Followers | ![followers](https://img.shields.io/github/followers/kanak-verma-developer?style=flat) |
-| ⭐ Total Stars | ![stars](https://img.shields.io/github/stars/kanak-verma-developer?style=flat) |
-| 🏆 Certifications | 4 |
-| 💼 Internships | 2 (IBM + Microsoft) |
-| 🚀 Live Projects | 2+ |
+| 📚 Repositories | 💼 Internships | 🏆 Certifications | 🌟 Passion |
+|---|---|---|---|
+| 6+ | 2 (IBM + Microsoft) | 3 | Building AI-powered products |
 
 </div>
 
 ---
 
-## 🎮 Fun Facts
+## 🎮 What Drives Me
 
-- 🎨 Love building interactive web experiences with smooth animations
-- 🤖 Passionate about AI/ML applications in real-world problems
-- 📚 Always learning new technologies and frameworks
-- 🌟 UI/UX design enthusiast with eye for detail
-- 🚀 Dream: Build a product that impacts millions of users
-- 💡 Believer in clean code and best practices
-- 🔥 Coffee-driven developer ☕
+<div align="center">
+
+> 🎨 **Interactive Design** • 🤖 **AI Innovation** • 📚 **Continuous Learning**  
+> 🌟 **User Experience** • 🔥 **Problem Solving** • ☕ **Coffee & Code**
+
+</div>
 
 ---
 
 <div align="center">
 
-## ⭐ If You Find My Work Interesting!
+## ✨ Let's Build Something Amazing Together!
 
-**Don't forget to star my repositories and follow me for more amazing projects!**
+![Thank You](https://img.shields.io/badge/Made%20with%20❤️%20in%20Moradabad-0891b2?style=for-the-badge)
 
-![Thank You](https://img.shields.io/badge/Made%20with%20❤️%20in%20Moradabad-blue?style=for-the-badge)
+**⭐ Don't forget to star the repositories you find interesting!**
 
 *Last Updated: June 2026*
 
-**Let's build something amazing together! 🚀**
-
-</div>
-
 ---
 
-<div align="center">
-
-![Bottom](https://github-profile-trophy.vercel.app/?username=kanak-verma-developer&theme=tokyonight&no-frame=true&row=1&column=7)
+**Happy Coding! 🚀**
 
 </div>
