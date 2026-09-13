@@ -1,249 +1,226 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0891b2&height=200&section=header&text=Hey%20Everyone,%20I'm%20Kanak%20👋&fontSize=38&fontColor=00d9ff&animation=fadeIn&fontAlignY=40&desc=Welcome%20to%20My%20GitHub%20Universe%20💻&descAlignY=60&descSize=18&descColor=ffffff" width="100%"/>
+# 👋 Hi, I'm Kanak Verma
 
-</div>
+### 💻 Full Stack Developer | 🤖 AI Enthusiast
 
-<br>
-
-<table>
-<tr>
-<td width="32%" valign="top" align="center">
-
-<img src="https://avatars.githubusercontent.com/kanak-verma-developer" width="180" style="border-radius:50%;"/>
-
-### Kanak Verma
-**Full Stack Developer | AI & ML**
-<br>
-<sub>she/her</sub>
+**B.Tech Data Science | Building Web Applications & AI-Powered Products**
 
 <br>
 
-📍 Moradabad, Uttar Pradesh, India
-<br>
-🎓 B.Tech Data Science (2023–2027)
-<br>
-📧 kanak0205mbd@gmail.com
-<br>
-🔗 [LinkedIn](https://www.linkedin.com/in/kanak-verma-b50730368)
-
-<br>
-
-**🏆 Achievements**
-<br>
-<img src="https://img.shields.io/badge/IBM-Web%20Dev%20Badge-1f6feb?style=flat-square&logo=ibm&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Microsoft-Azure%20Cert-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://avatars.githubusercontent.com/kanak-verma-developer" width="170" alt="Kanak Verma">
 
 <br><br>
 
-**🌱 Highlights**
-<br>
-🚀 2 Internships Completed
-<br>
-💼 3 Active Projects
-<br>
-🤖 AI/ML Enthusiast
+📍 Moradabad, Uttar Pradesh, India  
+🎓 B.Tech Data Science | 2023–2027
 
-</td>
-<td width="68%" valign="top">
+<br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=Building+AI-Powered+Web+Products;Computer+Vision+%2B+LLM+Integrations;Open+to+AI%2FWeb+Startup+Roles;Let's+Build+Something+Great+🚀" alt="Typing SVG"/>
-
-<br>
-
-- 🛠️ Building **AI-powered web products** that ship to production
-- 🎬 Real-time **computer vision pipelines** (YOLOv8 + OpenCV)
-- 🤝 **2 Internships** completed — IBM (Frontend) & Microsoft (Cloud/Azure)
-- 🌍 Open to collaboration on **AI + Full Stack** projects
-- 💼 Currently seeking **fast-paced AI/Web startup** opportunities
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=kanak-verma-developer&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&text_color=c9d1d9&title_color=00d9ff&icon_color=00d9ff&include_all_commits=true&count_private=true" width="100%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kanak-verma-developer&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 📊 Stats & Activity
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-**Top Languages by Repo**
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanak-verma-developer&layout=donut&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=00d9ff&text_color=c9d1d9&langs_count=8" width="100%"/>
-
-</td>
-<td width="50%" align="center">
-
-**Contribution Graph**
-<br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kanak-verma-developer&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&hide_border=true&area=true" width="100%"/>
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/kanak-verma-developer">GitHub</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kanak-verma-b50730368">LinkedIn</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:kanak0205mbd@gmail.com">Email</a>
 
 </div>
 
-<br>
+---
 
-## 🚀 Featured Projects
+## 👩‍💻 About Me
 
-<table>
-<tr>
-<td width="33%" valign="top">
+I'm **Kanak Verma**, a B.Tech Data Science student and **Full Stack
+Developer** with a strong interest in **AI, Generative AI and modern web
+development**.
 
-### 🤖 AI Smart Queue Management
-Real-time computer vision pipeline with live dashboard.
+I enjoy building practical applications that combine:
+
+- 🌐 Full Stack Web Development
+- 🤖 AI-powered applications
+- 🧠 RAG & NLP
+- 👁️ Computer Vision
+- ☁️ Cloud Computing
+- 🗄️ Database-driven applications
+
+My goal is to build **useful, scalable and user-friendly software products**
+while continuously improving my development and AI skills.
+
+---
+
+# 💼 Internship Experience
+
+## 🧠 IBM SkillsBuild × BharatCares
+
+### Gen AI & Cloud Computing Intern
+
+**Jun 2026 – Jul 2026 | Remote**
+
+- Worked on **Generative AI and Cloud Computing fundamentals**.
+- Applied **prompt engineering** concepts to guided project tasks.
+- Worked with practical **cloud deployment concepts**.
+- Gained exposure to modern Generative AI workflows.
+
+---
+
+## 💻 IBM × Edunet Foundation
+
+### Frontend Developer Intern
+
+**Aug 2025 – Oct 2025 | Remote**
+
+- Developed **5+ responsive web application modules** using
+  React.js, Tailwind CSS and JavaScript.
+- Integrated frontend components with **8+ REST API endpoints**.
+- Resolved **10+ cross-team development issues**.
+- Worked with **Git and GitHub** in a collaborative development environment.
+- Earned the **IBM Web Development Fundamentals Badge**.
+
+---
+
+## ☁️ Microsoft Elevate
+
+### Cloud Computing Intern
+
+**Mar 2025 – May 2025 | Remote**
+
+- Worked with **Microsoft Azure** cloud services.
+- Configured and tested **Virtual Machines, Storage and Resource Groups**.
+- Learned practical cloud infrastructure and resource management concepts.
+- Completed the internship program and received the
+  **Microsoft Azure Internship Certificate**.
+
+---
+
+# 🚀 Featured Projects
+
+## 🌱 CarbonIQ — AI Carbon Footprint Chatbot
+
+An AI-powered application designed to help users understand
+**carbon footprint and environmental impact**.
+
+### 🛠️ Tech Stack
+
+`Python` `Flask` `IBM Granite NLP` `RAG` `JavaScript`
+
+### ✨ Highlights
+
+- 🤖 AI-powered chatbot
+- 🧠 RAG-based knowledge retrieval
+- 🌍 Carbon-related queries across **10+ domains**
+- 📚 Knowledge-based information retrieval
+- 🎙️ Voice interaction
+- 🌎 Interactive 3D Earth / particle visualizer
+- ⚡ Average query response time under **2 seconds**
+
+### 🌐 Live Demo
+
+https://carboniq-6j7c.onrender.com
+
+---
+
+## 👥 AI Smart Queue Management System
+
+A real-time **Computer Vision based queue monitoring system** designed
+to detect and monitor people using live camera feeds.
+
+### 🛠️ Tech Stack
 
 `Python` `YOLOv8` `OpenCV` `Streamlit` `SQLite3`
 
-- 🎥 Real-time people detection from live camera
-- 🎫 Priority token system + manual entry
-- 📊 Live analytics dashboard
-- 📄 Auto-generated PDF reports
-- 👥 Role-based access control
+### ✨ Highlights
 
-<img src="https://img.shields.io/github/stars/kanak-verma-developer/AI_Queue_Management?style=social"/>
+- 🎥 Real-time people detection
+- 🤖 YOLOv8 computer vision pipeline
+- ⚡ Live camera processing at **20+ FPS in testing**
+- 📊 Streamlit analytics dashboard
+- 🗄️ SQLite-based audit trails
+- 📄 Automated PDF & CSV reporting
+- 👥 Queue monitoring for multiple people
 
-[![Repo](https://img.shields.io/badge/View-Repo-00d9ff?style=for-the-badge&logo=github)](https://github.com/kanak-verma-developer/AI_Queue_Management)
+---
 
-</td>
-<td width="33%" valign="top">
+## 🤖 NexBot Pro — AI SaaS Dashboard
 
-### 💼 NexBot Pro — AI SaaS
-Enterprise SaaS dashboard with glassmorphism UI.
+A modern responsive **SaaS-style web dashboard** with AI-focused
+management features.
 
-`HTML5` `CSS3` `JavaScript`
-
-- 📊 Company directory & status tracking
-- 👥 Hiring pipeline + applicant tracking
-- 🤖 AI chat with session history
-- 💎 Glassmorphism, fully responsive
-- ⚡ Zero-framework vanilla JS
-
-<img src="https://img.shields.io/github/stars/kanak-verma-developer/nexbot-project?style=social"/>
-
-[![Live](https://img.shields.io/badge/Live-Demo-00d9ff?style=for-the-badge&logo=vercel)](https://kanak-verma-developer.github.io/nexbot-project/)
-[![Repo](https://img.shields.io/badge/View-Repo-0891b2?style=for-the-badge&logo=github)](https://github.com/kanak-verma-developer/nexbot-project)
-
-</td>
-<td width="33%" valign="top">
-
-### 🎤 AI Virtual Interviewer
-Mock interview simulator with AI feedback.
+### 🛠️ Tech Stack
 
 `HTML5` `CSS3` `JavaScript`
 
-- 🎯 Realistic interview scenarios
-- 📝 Interactive Q&A format
-- 📊 Performance analytics
-- 🎬 Non-verbal cue evaluation
-- 📱 Fully responsive UI
+### ✨ Highlights
 
-[![Repo](https://img.shields.io/badge/View-Repo-00d9ff?style=for-the-badge&logo=github)](https://github.com/kanak-verma-developer/AI-vertual-interviewer)
+- 📊 Company management dashboard
+- 👥 Company directory
+- 💼 Hiring pipeline
+- 🧑‍💼 HR management modules
+- 🤖 AI chat interface
+- 📱 Responsive design
+- ✨ Modern UI animations
+- ⚡ Sub-2-second page load time in testing
+- 📈 90+ Google Lighthouse performance score in testing
 
-</td>
-</tr>
-</table>
+### 🌐 Live Demo
 
-<br>
+https://kanak-verma-developer.github.io/nexbot-project
 
-## 🛠️ Tech Stack
+---
 
-<div align="center">
+# 🛠️ Core Tech Stack
 
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind"/>
+### 💻 Languages
 
-<br><br>
+`Python` `JavaScript` `HTML5` `CSS3`
 
-**Backend & Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,python,express"/>
+### 🎨 Frontend
 
-<br><br>
+`React.js` `Tailwind CSS` `Responsive Design`
 
-**AI / ML**
-<br>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChatGPT_API-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
+### ⚙️ Backend
 
-<br><br>
+`Flask` `Node.js` `Express.js` `REST APIs`
 
-**Cloud, Database & Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=azure,sqlite,git,github,vscode"/>
+### 🗄️ Database
 
-</div>
+`SQL` `SQLite3`
 
-<br>
+### 🤖 AI / Data
 
-## 🌱 Learning Roadmap
+`YOLOv8` `OpenCV` `RAG` `NLP`
 
-```
-Frontend (React, Animations, Perf)   ████████░░  80%
-AI/ML (LLMs, Prompt Engineering)     ████████░░  80%
-Backend (System Design, Scale)       ███████░░░  70%
-Cloud & DevOps (Azure, CI/CD)        ███████░░░  70%
-```
+### ☁️ Cloud & Tools
 
-<br>
+`Microsoft Azure` `Git` `GitHub` `VS Code`
 
-## 🎯 What I'm Looking For
+---
 
-<div align="center">
+# 🧩 How I Build
 
-✨ AI / Web Startups with fast-paced innovation
-<br>
-💡 Full Stack or Frontend Roles with AI integration
-<br>
-🚀 Building products from concept → production
-<br>
-🌟 Collaborative teams passionate about real impact
-
-</div>
-
-<br>
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanak-verma-b50730368)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanak-verma-developer)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanak0205mbd@gmail.com)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=kanak-verma-developer&style=for-the-badge&color=00d9ff&label=Profile+Views"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-**⭐ If you like my work, consider starring my repositories!**
-
-<br>
-
-*Last Updated: June 2026*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0d1117&height=120&section=footer" width="100%"/>
-
-</div>
+```text
+                         💡 IDEA
+                           │
+                           ▼
+                    🎨 FRONTEND
+                 React + JavaScript
+                           │
+                           ▼
+                      🔗 REST API
+                           │
+                           ▼
+                     ⚙️ BACKEND
+                  Flask / Node.js
+                           │
+                           ▼
+                     🗄️ DATABASE
+                      SQL / SQLite
+                           │
+                           ▼
+                       ☁️ CLOUD
+                         Azure
+                           │
+                           ▼
+                      🤖 AI LAYER
+                   RAG / NLP / CV
+                           │
+                           ▼
+                    🚀 FINAL PRODUCT
