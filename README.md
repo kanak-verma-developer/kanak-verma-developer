@@ -1,226 +1,322 @@
 <div align="center">
 
-# 👋 Hi, I'm Kanak Verma
+<img src="https://avatars.githubusercontent.com/kanak-verma-developer" width="150" alt="Kanak Verma">
 
-### 💻 Full Stack Developer | 🤖 AI Enthusiast
+# 👋 Hi, I'm <span style="color:#58a6ff;">Kanak Verma</span>
 
-**B.Tech Data Science | Building Web Applications & AI-Powered Products**
+### 💻 Full Stack Developer  •  🤖 AI Enthusiast
+
+<p>
+<strong>B.Tech Data Science</strong> &nbsp;|&nbsp; 2023–2027
+</p>
+
+<p>
+Building <strong>practical web applications</strong> and
+<strong>AI-powered products</strong> that solve real-world problems.
+</p>
 
 <br>
 
-<img src="https://avatars.githubusercontent.com/kanak-verma-developer" width="170" alt="Kanak Verma">
-
-<br><br>
-
-📍 Moradabad, Uttar Pradesh, India  
-🎓 B.Tech Data Science | 2023–2027
-
-<br><br>
-
-<a href="https://github.com/kanak-verma-developer">GitHub</a>
+<a href="https://github.com/kanak-verma-developer">
+<b>GitHub</b>
+</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kanak-verma-b50730368">LinkedIn</a>
+<a href="https://www.linkedin.com/in/kanak-verma-b50730368">
+<b>LinkedIn</b>
+</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="mailto:kanak0205mbd@gmail.com">Email</a>
+<a href="mailto:kanak0205mbd@gmail.com">
+<b>Email</b>
+</a>
 
 </div>
 
 ---
 
+<table>
+<tr>
+
+<td width="58%" valign="top">
+
 ## 👩‍💻 About Me
 
 I'm **Kanak Verma**, a B.Tech Data Science student and **Full Stack
-Developer** with a strong interest in **AI, Generative AI and modern web
-development**.
+Developer** with a strong interest in **AI, Generative AI and modern
+web development**.
 
-I enjoy building practical applications that combine:
+I enjoy turning ideas into practical software by combining:
 
-- 🌐 Full Stack Web Development
-- 🤖 AI-powered applications
-- 🧠 RAG & NLP
-- 👁️ Computer Vision
-- ☁️ Cloud Computing
-- 🗄️ Database-driven applications
+**Frontend → Backend → APIs → Database → Cloud → AI**
 
-My goal is to build **useful, scalable and user-friendly software products**
-while continuously improving my development and AI skills.
+My development journey focuses on building applications that are
+**responsive, useful, user-friendly and technically practical.**
+
+<br>
+
+### ⚡ What I Do
+
+| Area | Focus |
+|---|---|
+| 🌐 Web Development | Full Stack Applications |
+| ⚛️ Frontend | React.js, JavaScript |
+| ⚙️ Backend | Flask, Node.js, REST APIs |
+| 🗄️ Database | SQL, SQLite3 |
+| 🤖 AI / ML | RAG, NLP, Computer Vision |
+| ☁️ Cloud | Microsoft Azure |
+
+</td>
+
+<td width="42%" valign="top">
+
+## 🎯 Developer Profile
+
+### 💻 Full Stack
+Building complete web applications from frontend to backend.
+
+### 🤖 AI Enthusiast
+Exploring AI-powered applications, RAG, NLP and Computer Vision.
+
+### ☁️ Cloud
+Hands-on experience with Microsoft Azure and cloud fundamentals.
+
+### 🚀 Builder
+Focused on creating practical projects instead of only learning theory.
+
+<br>
+
+> **Turning ideas into real products.**
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 💼 Internship Experience
+# 🧰 Tech Stack
 
-## 🧠 IBM SkillsBuild × BharatCares
+<div align="center">
 
-### Gen AI & Cloud Computing Intern
+### 💻 Languages
 
-**Jun 2026 – Jul 2026 | Remote**
+`Python` &nbsp; `JavaScript` &nbsp; `HTML5` &nbsp; `CSS3`
 
-- Worked on **Generative AI and Cloud Computing fundamentals**.
-- Applied **prompt engineering** concepts to guided project tasks.
-- Worked with practical **cloud deployment concepts**.
-- Gained exposure to modern Generative AI workflows.
+### 🎨 Frontend
+
+`React.js` &nbsp; `Tailwind CSS` &nbsp; `Responsive Design`
+
+### ⚙️ Backend
+
+`Flask` &nbsp; `Node.js` &nbsp; `Express.js` &nbsp; `REST APIs`
+
+### 🗄️ Database
+
+`SQL` &nbsp; `SQLite3`
+
+### 🤖 AI / Data
+
+`YOLOv8` &nbsp; `OpenCV` &nbsp; `RAG` &nbsp; `NLP`
+
+### ☁️ Cloud & Development Tools
+
+`Microsoft Azure` &nbsp; `Git` &nbsp; `GitHub` &nbsp; `VS Code`
+
+</div>
 
 ---
 
-## 💻 IBM × Edunet Foundation
+# 💼 Experience
 
-### Frontend Developer Intern
+<table>
+<tr>
 
-**Aug 2025 – Oct 2025 | Remote**
+<td width="33%" valign="top">
 
-- Developed **5+ responsive web application modules** using
-  React.js, Tailwind CSS and JavaScript.
-- Integrated frontend components with **8+ REST API endpoints**.
-- Resolved **10+ cross-team development issues**.
-- Worked with **Git and GitHub** in a collaborative development environment.
-- Earned the **IBM Web Development Fundamentals Badge**.
+### 🧠 IBM SkillsBuild × BharatCares
 
----
+**Gen AI & Cloud Computing Intern**
 
-## ☁️ Microsoft Elevate
+`Jun 2026 – Jul 2026`
 
-### Cloud Computing Intern
+📍 Remote
 
-**Mar 2025 – May 2025 | Remote**
+- Generative AI fundamentals
+- Cloud computing concepts
+- Prompt engineering
+- Cloud deployment concepts
 
-- Worked with **Microsoft Azure** cloud services.
-- Configured and tested **Virtual Machines, Storage and Resource Groups**.
-- Learned practical cloud infrastructure and resource management concepts.
-- Completed the internship program and received the
-  **Microsoft Azure Internship Certificate**.
+</td>
+
+<td width="33%" valign="top">
+
+### 💻 IBM × Edunet Foundation
+
+**Frontend Developer Intern**
+
+`Aug 2025 – Oct 2025`
+
+📍 Remote
+
+- Built **5+ responsive modules**
+- React.js + Tailwind + JavaScript
+- Integrated **8+ REST APIs**
+- Resolved **10+ issues**
+- Git & GitHub collaboration
+
+</td>
+
+<td width="33%" valign="top">
+
+### ☁️ Microsoft Elevate
+
+**Cloud Computing Intern**
+
+`Mar 2025 – May 2025`
+
+📍 Remote
+
+- Microsoft Azure
+- Virtual Machines
+- Azure Storage
+- Resource Groups
+- Cloud infrastructure
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌱 CarbonIQ — AI Carbon Footprint Chatbot
+<table>
+<tr>
 
-An AI-powered application designed to help users understand
-**carbon footprint and environmental impact**.
+<td width="33%" valign="top">
 
-### 🛠️ Tech Stack
+## 🌱 CarbonIQ
 
-`Python` `Flask` `IBM Granite NLP` `RAG` `JavaScript`
+### AI Carbon Footprint Chatbot
 
-### ✨ Highlights
+AI-powered application for understanding
+**carbon footprint and environmental impact.**
 
-- 🤖 AI-powered chatbot
-- 🧠 RAG-based knowledge retrieval
-- 🌍 Carbon-related queries across **10+ domains**
-- 📚 Knowledge-based information retrieval
+**Stack**
+
+`Python`  
+`Flask`  
+`IBM Granite NLP`  
+`RAG`  
+`JavaScript`
+
+**Highlights**
+
+- 🤖 AI chatbot
+- 🧠 RAG retrieval
+- 🌍 10+ carbon domains
+- 📚 Knowledge base
 - 🎙️ Voice interaction
-- 🌎 Interactive 3D Earth / particle visualizer
-- ⚡ Average query response time under **2 seconds**
+- 🌎 3D Earth visualizer
+- ⚡ < 2 sec average response
 
-### 🌐 Live Demo
+**[🌐 Live Demo →](https://carboniq-6j7c.onrender.com)**
 
-https://carboniq-6j7c.onrender.com
+</td>
 
----
+<td width="33%" valign="top">
 
-## 👥 AI Smart Queue Management System
+## 👥 AI Smart Queue
 
-A real-time **Computer Vision based queue monitoring system** designed
-to detect and monitor people using live camera feeds.
+### Computer Vision System
 
-### 🛠️ Tech Stack
+Real-time queue monitoring using
+**YOLOv8 + OpenCV**.
 
-`Python` `YOLOv8` `OpenCV` `Streamlit` `SQLite3`
+**Stack**
 
-### ✨ Highlights
+`Python`  
+`YOLOv8`  
+`OpenCV`  
+`Streamlit`  
+`SQLite3`
 
-- 🎥 Real-time people detection
-- 🤖 YOLOv8 computer vision pipeline
-- ⚡ Live camera processing at **20+ FPS in testing**
-- 📊 Streamlit analytics dashboard
-- 🗄️ SQLite-based audit trails
-- 📄 Automated PDF & CSV reporting
-- 👥 Queue monitoring for multiple people
+**Highlights**
 
----
+- 🎥 Real-time detection
+- 🤖 YOLOv8 pipeline
+- ⚡ 20+ FPS in testing
+- 📊 Analytics dashboard
+- 📄 PDF / CSV reports
+- 🗄️ SQLite audit trail
+- 👥 Multi-person monitoring
 
-## 🤖 NexBot Pro — AI SaaS Dashboard
+</td>
 
-A modern responsive **SaaS-style web dashboard** with AI-focused
-management features.
+<td width="33%" valign="top">
 
-### 🛠️ Tech Stack
+## 🤖 NexBot Pro
 
-`HTML5` `CSS3` `JavaScript`
+### AI SaaS Dashboard
 
-### ✨ Highlights
+Modern responsive SaaS dashboard
+with AI-focused management features.
 
-- 📊 Company management dashboard
+**Stack**
+
+`HTML5`  
+`CSS3`  
+`JavaScript`
+
+**Highlights**
+
+- 📊 Company dashboard
 - 👥 Company directory
 - 💼 Hiring pipeline
-- 🧑‍💼 HR management modules
+- 🧑‍💼 HR modules
 - 🤖 AI chat interface
-- 📱 Responsive design
-- ✨ Modern UI animations
-- ⚡ Sub-2-second page load time in testing
-- 📈 90+ Google Lighthouse performance score in testing
+- 📱 Responsive UI
+- ✨ Modern animations
+- 📈 90+ Lighthouse
 
-### 🌐 Live Demo
+**[🌐 Live Demo →](https://kanak-verma-developer.github.io/nexbot-project)**
 
-https://kanak-verma-developer.github.io/nexbot-project
+</td>
 
----
-
-# 🛠️ Core Tech Stack
-
-### 💻 Languages
-
-`Python` `JavaScript` `HTML5` `CSS3`
-
-### 🎨 Frontend
-
-`React.js` `Tailwind CSS` `Responsive Design`
-
-### ⚙️ Backend
-
-`Flask` `Node.js` `Express.js` `REST APIs`
-
-### 🗄️ Database
-
-`SQL` `SQLite3`
-
-### 🤖 AI / Data
-
-`YOLOv8` `OpenCV` `RAG` `NLP`
-
-### ☁️ Cloud & Tools
-
-`Microsoft Azure` `Git` `GitHub` `VS Code`
+</tr>
+</table>
 
 ---
 
-# 🧩 How I Build
+# 🧠 How I Build
+
+<div align="center">
 
 ```text
-                         💡 IDEA
-                           │
-                           ▼
-                    🎨 FRONTEND
-                 React + JavaScript
-                           │
-                           ▼
-                      🔗 REST API
-                           │
-                           ▼
-                     ⚙️ BACKEND
-                  Flask / Node.js
-                           │
-                           ▼
-                     🗄️ DATABASE
-                      SQL / SQLite
-                           │
-                           ▼
-                       ☁️ CLOUD
-                         Azure
-                           │
-                           ▼
-                      🤖 AI LAYER
-                   RAG / NLP / CV
-                           │
-                           ▼
-                    🚀 FINAL PRODUCT
+          💡 IDEA
+            │
+            ▼
+      🎨 USER INTERFACE
+       React / JavaScript
+            │
+            ▼
+        🔗 REST APIs
+            │
+            ▼
+       ⚙️ BACKEND
+    Flask / Node.js
+            │
+            ▼
+       🗄️ DATABASE
+       SQL / SQLite
+            │
+            ▼
+        ☁️ CLOUD
+        Azure
+            │
+            ▼
+        🤖 AI
+   RAG / NLP / CV
+            │
+            ▼
+       🚀 PRODUCT
